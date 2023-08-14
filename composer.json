@@ -1,0 +1,11 @@
+{
+    "name": "tricksena/get-better",
+    "description": "Shows different suggestions for you every day, until you go insane!",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Patrick"
+        }
+    ],
+    "require": {}
+}
